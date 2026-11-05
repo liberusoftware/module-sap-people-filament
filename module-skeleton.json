@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-people-filament",
+  "capabilityKey": "planned:sap:people",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/sap-people-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/sap/nextjs/people.md",
+  "presentationPlan": "projects/sap/filament/people.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
